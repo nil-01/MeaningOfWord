@@ -27,10 +27,10 @@ How To Use:
 -->Click on Manage Extension..
 ![image](https://github.com/nil-01/MeaningOfWord/assets/76512153/17bc149b-4b3f-4ae2-8149-a96c9f469852)
 
--->Enable Developer Mode
+-->Enable Developer Mode:
 ![image](https://github.com/nil-01/MeaningOfWord/assets/76512153/f37f0198-8391-4bb5-8fd5-c6236e16e089)
 
--->Click on Load unpacked Extension
+-->Click on Load unpacked Extension:
 ![image](https://github.com/nil-01/MeaningOfWord/assets/76512153/ec1793f2-b6d5-4c63-b04f-979f90ceedf9)
 
 -->FinallY Add Manifest.json File 
