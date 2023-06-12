@@ -1,0 +1,25 @@
+{
+    
+        "manifest_version": 3,
+        "name": "Meaning Of Word",
+        "description": "Developed By Nil for getting word Meaning .",
+        "version": "1.0",
+        "icons": {
+          "16": "images/MeaningOfWordLogo.jpg",
+          "32": "images/MeaningOfWordLogo.jpg",
+          "48": "images/MeaningOfWordLogo.jpg",
+          "128": "images/MeaningOfWordLogo.jpg"
+        },
+        "action": {
+          "default_popup": "popup.html"
+        },
+        "host_permissions": [
+          "https://developer.chrome.com/*"
+        ],
+        "permissions": [
+          "tabGroups"
+        ]
+      
+   
+   
+}
