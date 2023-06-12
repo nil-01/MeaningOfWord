@@ -9,3 +9,6 @@ Manifest_version Support : 3
 ->Dedicated to Best Friend 😇.
 -> Open For Modification.
 ->Created on 6-12-2023.
+
+![image](https://github.com/nil-01/MeaningOfWord/assets/76512153/44c5c69d-c8fd-4dab-92e3-6aa60bd9adb8)
+
